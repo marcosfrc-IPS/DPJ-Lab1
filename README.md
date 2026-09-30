@@ -17,6 +17,6 @@ Primeiro laboratório feito em aula, uma pequena introdução ao Unity.
 
 ## Autores
 
-**Marcos Costa** 
+**Marcos Costa ,** 
 **Dinis Teixeira** <br>
 Laboratório - Ano letivo 2026/2027
